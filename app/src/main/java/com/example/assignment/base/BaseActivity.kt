@@ -16,7 +16,6 @@ import com.example.assignment.util.RealmDialerReference
 import java.util.*
 import javax.inject.Inject
 
-// TODO: 11/27/20 Create by jitendra singh sarv 
 
 
 abstract class BaseActivity<DB : ViewDataBinding, VM : ViewModel>(private val mviewmodelclass: Class<VM>) : AppCompatActivity() {

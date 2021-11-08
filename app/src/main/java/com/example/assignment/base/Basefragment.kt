@@ -13,7 +13,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.assignment.Webservices.Viewmodelfactorys
 import javax.inject.Inject
 
-// TODO: 11/27/20 created by jitendra singh sarv
+
 abstract class Basefragment<DB : ViewDataBinding, VM: ViewModel>(private val mviewmodelclass: Class<VM>): Fragment() {
     @Inject
     lateinit var viewmodelfactorys: Viewmodelfactorys
