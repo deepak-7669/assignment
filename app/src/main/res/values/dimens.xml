@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="rippleStrokeWidth">5dp</dimen>
+    <dimen name="rippleRadius">5dp</dimen>
+</resources>

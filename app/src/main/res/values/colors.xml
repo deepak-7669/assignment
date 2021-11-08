@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00C2F2</color>
+    <color name="colorPrimaryDark">#00C2F2</color>
+    <color name="colorAccent">#00C2F2</color>
+
+    <color name="colorHint">#525d67</color>
+    <color name="colorHeading">#162062</color>
+    <color name="colorLangActBackground">#ceedef</color>
+    <color name="colorButtonThemeBlue">#292D5C</color>
+    <color name="background">#dddddd</color>
+    <color name="colorTheme">#46034BDA</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack2">#3e5970</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorOffWhite">#EBECEE</color>
+    <color name="colorBlockBackground">#0D1720</color>
+    <color name="colorcc">#141667</color>
+
+
+    <color name="colorBlackLight">#1d3b54</color>
+    <color name="colorBlackLight2">#586c7d</color>
+    <color name="colorGreenButton">#50c060</color>
+
+    <color name="colorGreyLight">#c7586c7d</color>
+    <color name="colorGreyLightest">#e1e1e1</color>
+    <color name="colorGrey2">#697b8b</color>
+    <color name="colorGrey4">#7e91a0</color>
+    <color name="colorBackground">#05B3DE</color>
+
+    <color name="colorUnderline">#bad0e3</color>
+    <color name="colorBlue">#007bff</color>
+    <color name="colorBlue3">#728daa</color>
+    <color name="colorBlueLightest">#eef6fe</color>
+    <color name="colorSkyBlue">#00C2F2</color>
+    <color name="colorSkyBlue2">#d2e4f7</color>
+    <color name="colorNavyBlue">#1d3b54</color>
+    <color name="colorBlue2">#326ef7</color>
+    <color name="colorBlueFacebook">#3874e2</color>
+    <color name="colorRedGoogle">#dc4e42</color>
+
+    <color name="colorBack1">#6600CEC9</color>
+    <color name="colorBack2">#4AFF7675</color>
+    <color name="colorBack3">#A68F85E1</color>
+    <color name="colorBack4">#83FBC25A</color>
+    <color name="colorBack5">#8056A5F5</color>
+    <color name="colorBack6">#A67C949E</color>
+    <color name="colorBack7">#A6F68054</color>
+    <color name="colorBack8">#B98A63C4</color>
+    <color name="colorBack9">#9744D566</color>
+    <color name="colorBack10">#A44DC9A7</color>
+
+    <color name="colorLightGreen1">#6B87A1</color>
+    <color name="colorLightestGreen">#E0F2DA</color>
+    <color name="colorDarkestGreen">#DCF8C6</color>
+
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorTransparentContact">#A1000000</color>
+
+    <color name="colorWhite2">#c5ffffff</color>
+
+    <color name="colorLightestSkyBlue2">#EDF5FE</color>
+    <color name="colorHintChangePassword">#A3ADB6</color>
+    <color name="colorBottomLetters">#ced0d1</color>
+    <color name="colorblue">#44C3F2</color>
+    <color name="colorSkyBlueButton">#00C2F2</color>
+
+
+
+</resources>
